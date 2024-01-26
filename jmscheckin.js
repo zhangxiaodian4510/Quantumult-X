@@ -1,8 +1,3 @@
-/**
- * @fileoverview Template to compose HTTP reqeuest.
- * 
- */
-
 const url = `https://bot.impian.eu/checkin?code=618745&id=1448862328&first_name=cherish&username=cherishyue&photo_url=https%3A%2F%2Ft.me%2Fi%2Fuserpic%2F320%2FaGhc7vsa8a7jZ7n3pXL9Wig04-AICTvpSTF6mj1kcFw.jpg&auth_date=1706261267&hash=0dd934f53c0e34c499655148d1dd9e1176e41c8b5876b7f8df72d3faf9ca69a7`;
 const method = `GET`;
 const headers = {

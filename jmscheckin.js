@@ -4,7 +4,7 @@
  */
 const timestampNow = $timestamp;
 
-const url = `https://bot.impian.eu/checkin?code=618745&id=1448862328&first_name=cherish&username=cherishyue&photo_url=https%3A%2F%2Ft.me%2Fi%2Fuserpic%2F320%2FaGhc7vsa8a7jZ7n3pXL9Wig04-AICTvpSTF6mj1kcFw.jpg&auth_date=timestampNow&hash=0dd934f53c0e34c499655148d1dd9e1176e41c8b5876b7f8df72d3faf9ca69a7`;
+const url = `https://bot.impian.eu/checkin?code=618745&id=1448862328&first_name=cherish&username=cherishyue&photo_url=https%3A%2F%2Ft.me%2Fi%2Fuserpic%2F320%2FaGhc7vsa8a7jZ7n3pXL9Wig04-AICTvpSTF6mj1kcFw.jpg&auth_date={timestampNow}&hash=0dd934f53c0e34c499655148d1dd9e1176e41c8b5876b7f8df72d3faf9ca69a7`;
 const method = `GET`;
 const headers = {
 'Cookie' : `cf_clearance=pH7yXKC8dZlR8W7U2twk66h5b97lrG4cAX0wDvuJTlU-1706023461-1-ARb+QjTcRYsxhlkTr+VGr/VoA+hCA4eLqulv7pYaZnqJfKKnZUlxP4x4a6PNsyaIMcWhPfuODn8emPexPeWlB6I=`,

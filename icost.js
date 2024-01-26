@@ -11,7 +11,7 @@
 ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/thebestkyle323/Quantumult-x/main/iCost.js
 
 [mitm]
-hostname = buy.itunes.apple.com
+hostname = www.apple.com.cn
 
 *************************************/
 

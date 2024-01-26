@@ -8,7 +8,7 @@
 **************************************
 
 [rewrite_local]
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/thebestkyle323/Quantumult-x/main/iCost.js
+^https:\/\/www\.apple\.com\.cn\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/zhangxiaodian4510/Quantumult-X/main/icost.js
 
 [mitm]
 hostname = www.apple.com.cn
